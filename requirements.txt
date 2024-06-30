@@ -1,3 +1,0 @@
-get_nic==0.0.3
-pyrcrack==1.2.6
-rich==13.7.1
